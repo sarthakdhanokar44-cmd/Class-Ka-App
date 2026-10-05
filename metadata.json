@@ -1,0 +1,7 @@
+{
+  "name": "ClassHub - College Class Management & Academics Portal",
+  "description": "Comprehensive college class management platform featuring assignments, tests, CIA updates, urgent notices, CR portal for assignments & experiments, notes repository, events participation tracker, batch portals, and test answer hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
